@@ -7,6 +7,8 @@ public class Main {
      *
      * @param args
      */
+
+    // todo -> Definir quantas notas estão acima da média!
     public static void main(String[] args) {
         // Leitura de dados a partir do teclado.
         Scanner entrada = new Scanner(System.in);
