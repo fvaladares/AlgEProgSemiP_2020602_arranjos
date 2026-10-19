@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// https://github.com/fvaladares/AlgEProgSemiP_2020602_arranjos
 public class Main {
     /**
      * Programa para demonstrar o uso de vetores
@@ -23,6 +24,7 @@ public class Main {
         System.out.println();
 
         // Estrutura de repetição para ler os dados;
+        // notas.length -- Retorna o tamanho do vetor
         for (int i = 0; i < notas.length; i++) {
             System.out.printf("\nInsira a nota %d: ", (i + 1));
             notas[i] = entrada.nextDouble();
