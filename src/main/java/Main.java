@@ -67,8 +67,6 @@ public class Main {
             }
         }
 
-
-
         System.out.println("\nAté mais!!! \uD83D\uDD96\uD83C\uDFFD");
     }
 }
